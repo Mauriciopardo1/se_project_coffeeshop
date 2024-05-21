@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Adding more videos to the platform for our valued customers.
+- Creating an additional form to reserve the entire space.
+- Adding a new navigation link for signing up for special promotions and news.
