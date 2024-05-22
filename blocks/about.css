@@ -3,7 +3,7 @@
   justify-content: space-between;
   margin: 0;
   padding: 100px 80px;
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   position: relative;
   background-color: #0a2850;
   color: #fff;
@@ -11,7 +11,7 @@
 }
 
 .about__title {
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -30,7 +30,7 @@
 }
 
 .about__paragraph {
-  font-family: "Noto Serif", serif;
+  font-family: "Noto Serif", "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

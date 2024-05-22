@@ -30,7 +30,7 @@
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  margin-bottom: 20px;
+  margin: 0 0 20px;
 }
 
 .footer__list {
@@ -70,5 +70,5 @@
   font-size: 16px;
   line-height: 20px;
   position: relative;
-  margin-top: 108px;
+  margin: 108px 0 0;
 }
