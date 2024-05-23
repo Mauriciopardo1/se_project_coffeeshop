@@ -12,12 +12,12 @@
 }
 
 .card__title {
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
-  margin-bottom: 32px;
+  margin: 0 auto 32px;
 }
 .card__list {
   list-style: none;
@@ -34,6 +34,9 @@
   margin-bottom: 16px;
   display: flex;
   align-items: center;
+}
+.card__list-item:last-child {
+  margin-bottom: 0;
 }
 
 .card__list-divider {

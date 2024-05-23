@@ -35,14 +35,14 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
-  margin-bottom: 20px;
+  margin: 0 auto 20px;
 }
 .about__paragraph:first-child {
   margin-top: 19px;
 }
 
 .about__paragraph:last-child {
-  margin-bottom: 53px;
+  margin-bottom: 73px;
 }
 
 .about__circle {

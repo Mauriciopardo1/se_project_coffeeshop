@@ -24,12 +24,11 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 438px;
-  margin-top: 24px;
+  margin: 24px 0 0;
 }
 
 .recipes__videos {
-  margin-top: 80px;
-  margin-bottom: 215px;
+  margin: 80px auto 0;
   align-content: center;
   display: flex;
   gap: 40px;
@@ -49,4 +48,5 @@
   line-height: 30px;
   display: flex;
   justify-content: space-between;
+  margin: 24px auto 0;
 }
